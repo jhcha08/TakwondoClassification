@@ -1,4 +1,4 @@
-# TakwondoClassification
+# Takwondo Classification
 Takwondo Classification Challenge
 
 It is operated by Naver Smart Machine Learning(NSML).
